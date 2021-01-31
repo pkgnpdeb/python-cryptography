@@ -16,7 +16,6 @@
 * [Built with](#built-with)
 * [Tools](#tools)
 * [Setup](#setup)
-* [Note](#note)
 
 ## General info
 This is simple algorithmic implementation of cryptpgraphy witn Python.
