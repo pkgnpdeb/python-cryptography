@@ -16,7 +16,7 @@
 
 
 ## Alogorithm Screenshot 
-<span style="display:block;text-align:center">![dawback](https://user-images.githubusercontent.com/48232101/106387073-22b50b80-6400-11eb-8b7e-e8a7dfd4f02b.jpg)
-</span> 
+![dawback](https://user-images.githubusercontent.com/48232101/106387073-22b50b80-6400-11eb-8b7e-e8a7dfd4f02b.jpg) 
 
 ## Screenshot 
+![reversecipher](https://user-images.githubusercontent.com/48232101/106387161-8b9c8380-6400-11eb-9405-f4aeb1a64f2f.png)
