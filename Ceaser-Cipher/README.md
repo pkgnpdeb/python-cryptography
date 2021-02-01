@@ -20,5 +20,7 @@ $ sudo apt install xsel
 ``` 
 
 # Algorithm Screenshot 
+* Will be updated soon 
 
 # Snippet Screenshot 
+* Will be updated soon 
