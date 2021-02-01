@@ -3,7 +3,7 @@
 ## Cryptography Contents 
 | 	Projects       | 
 | ------------- |
-| [Reverse Cipher]()				|
+| [Reverse Cipher](https://kutt.it/Gluddh)	|
 | [Ceaser Cipher and Transportation]()		|
 | [Ceaser Cipher Decryption Program]()		|
 | [Vernam and Vignere Cipher]()           	|
@@ -16,7 +16,6 @@
 * [Built with](#built-with)
 * [Tools](#tools)
 * [Setup](#setup)
-* [Note](#note)
 
 ## General info
 This is simple algorithmic implementation of cryptpgraphy witn Python.

@@ -1,4 +1,4 @@
-# Reverse Cipher Algorithm 
+# Reverse Cipher Algorithm Demo
 
 message = "Three can keep a secret, if two of them are dead"
 
