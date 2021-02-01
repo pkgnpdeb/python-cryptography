@@ -46,10 +46,6 @@ $ sudo apt install idle                [On Python2]
 $ sudo apt-get install idle3           [On Python3]			
 
 ``` 
- 
-
-## Screenshots
-* Screenshots will be updated soon
 
 # LICENSE 
 >You can check out the full license [here](https://github.com/pkgnpdeb/python-cryptography/blob/main/LICENSE)
