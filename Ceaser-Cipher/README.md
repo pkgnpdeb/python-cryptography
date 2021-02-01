@@ -14,4 +14,11 @@ Will be updated soon
 $ pip install pyperclip		[On Python2]
 $ pip3 install pyperclip	[On Python3]
 
+----- Install XSEL (For Pyper copy/paste) -----
+$ sudo apt install xsel
+
 ``` 
+
+# Algorithm Screenshot 
+
+# Snippet Screenshot 
