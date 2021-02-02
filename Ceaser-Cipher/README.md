@@ -29,7 +29,7 @@ $ sudo apt install xsel
 ``` 
 
 # Algorithm Screenshot 
-* ![ceaser](https://user-images.githubusercontent.com/48232101/106557274-9282dd80-6549-11eb-9318-c0400618356f.png)
+![ceaser](https://user-images.githubusercontent.com/48232101/106557274-9282dd80-6549-11eb-9318-c0400618356f.png)
 
 # Snippet Screenshot 
 * Will be updated soon 
