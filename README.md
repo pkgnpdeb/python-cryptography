@@ -3,13 +3,13 @@
 ## Cryptography Contents 
 | 	Projects       | 
 | ------------- |
-| [Reverse Cipher](https://kutt.it/Gluddh)	|
-| [Ceaser Cipher and Transportation]()		|
-| [Ceaser Cipher Decryption Program]()		|
-| [Vernam and Vignere Cipher]()           	|
-| [Cryptography Plugin]()                 	|
-| [Calculating RSA Keys]()                	|
-| [RSA Cipher]()                          	|
+| [Reverse Cipher](https://kutt.it/Gluddh)				|
+| [Ceaser Cipher and Transposition](https://kutt.it/NXxHpO)		|
+| [Ceaser Cipher Decryption Program]()					|
+| [Vernam and Vignere Cipher]()           				|
+| [Cryptography Plugin]()                 				|
+| [Calculating RSA Keys]()                				|
+| [RSA Cipher]()                          				|
 
 ## Table of contents
 * [General info](#general-info)
@@ -46,10 +46,6 @@ $ sudo apt install idle                [On Python2]
 $ sudo apt-get install idle3           [On Python3]			
 
 ``` 
- 
-
-## Screenshots
-* Screenshots will be updated soon
 
 # LICENSE 
 >You can check out the full license [here](https://github.com/pkgnpdeb/python-cryptography/blob/main/LICENSE)
