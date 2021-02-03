@@ -31,6 +31,11 @@ $ sudo apt install xsel
 # Algorithm Screenshot 
 ![ceaser](https://user-images.githubusercontent.com/48232101/106557274-9282dd80-6549-11eb-9318-c0400618356f.png)
 
-# Snippet Screenshot 
+# Ceaser Cipher Screenshot 
 ![ceaser](https://user-images.githubusercontent.com/48232101/106625131-7bbaa600-659e-11eb-8ba5-72c23cc1add6.png)
+
+# Ceaser Cipher Brute-Force Screenshot 
+
+# Transposition Cipher Screenshot 
+* Will be updates soon 
 
