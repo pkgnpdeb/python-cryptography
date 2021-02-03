@@ -35,6 +35,7 @@ $ sudo apt install xsel
 ![ceaser](https://user-images.githubusercontent.com/48232101/106625131-7bbaa600-659e-11eb-8ba5-72c23cc1add6.png)
 
 # Ceaser Cipher Brute-Force Screenshot 
+![brute](https://user-images.githubusercontent.com/48232101/106763578-137fc900-665f-11eb-9908-3d90bdd22fa6.gif)
 
 # Transposition Cipher Screenshot 
 * Will be updates soon 
