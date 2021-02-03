@@ -1,5 +1,7 @@
-# ceaser cipher hacking 
-# via Brute Force 
+"""
+Ceaser Cipher hacking 
+via Brute Force 
+"""
 
 message = 'VORD GRGVIJ CVRBVU RK RYR.TFD'
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz123567890 !?.'
