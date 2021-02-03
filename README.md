@@ -4,7 +4,7 @@
 | 	Projects       | 
 | ------------- |
 | [Reverse Cipher](https://kutt.it/Gluddh)				|
-| [Ceaser Cipher and Transportation](https://kutt.it/NXxHpO)		|
+| [Ceaser Cipher and Transposition](https://kutt.it/NXxHpO)		|
 | [Ceaser Cipher Decryption Program]()					|
 | [Vernam and Vignere Cipher]()           				|
 | [Cryptography Plugin]()                 				|
