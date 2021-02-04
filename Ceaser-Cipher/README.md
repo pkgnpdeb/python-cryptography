@@ -1,4 +1,4 @@
-# Ceaser Cipher and Transportation 
+# Ceaser Cipher, Ceaser Cipher Brute-Force attack and Transportation Cipher
 
 ## Algorithm of Ceaser Cipher 
 
@@ -28,9 +28,22 @@ $ sudo apt install xsel
 
 ``` 
 
-# Algorithm Screenshot 
+## Ceaser Cipher Algorithm Visual
 ![ceaser](https://user-images.githubusercontent.com/48232101/106557274-9282dd80-6549-11eb-9318-c0400618356f.png)
 
-# Snippet Screenshot 
-![ceaser](https://user-images.githubusercontent.com/48232101/106625131-7bbaa600-659e-11eb-8ba5-72c23cc1add6.png)
+## Ceaser Cipher Visual
+![ceaser](https://user-images.githubusercontent.com/48232101/106877332-bc323500-6700-11eb-864e-a6639918c23b.png)
+
+## Ceaser Cipher Brute-Force Visual
+![brute](https://user-images.githubusercontent.com/48232101/106877641-17fcbe00-6701-11eb-92ae-00e9fdf7bd81.gif)
+
+## Algorithm of Transposition Cipher 
+```
+Will be updated soon 
+```
+
+## Transposition Cipher Algorithm Visual
+
+## Transposition Cipher Visual
+* Will be updates soon 
 
