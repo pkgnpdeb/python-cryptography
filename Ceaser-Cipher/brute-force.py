@@ -1,36 +1,39 @@
-# ceaser cipher hacking 
-# via Brute Force 
+"""
+Caesar Cipher Hacker
+with Brute Force Method
+https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+"""
 
-message = 'VORD GRGVIJ CVRBVU RK RYR.TFD'
-SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz123567890 !?.'
+message = 'LRF, RKNZ CNCREF UNF ORRA YRNXRQ.'
+SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.,'
 
-# Loop through every possible key 
+# Loop through every possible key:
 for key in range(len(SYMBOLS)):
     """
-    It is important to set translated to blank string so that the previous 
-    iteration's value for translated is cleared:
+    It is important to set translated to blank string so that the 
+    previous iteration's value for translation is cleared: 
     """
     translated = ''
-
     
-    # The rest of the program is almost as same as Ceaser Cipher
-    # Loop through each symbol in message: 
+    """
+    The rest of the program is similar as Ceaser program: 
     
+    Loop through each symbol in message: 
+    """
     for symbol in message:
-        if symbol in SYMBOLS: 
+        if symbol in SYMBOLS:
             symbolIndex = SYMBOLS.find(symbol)
-            translatedIndex = symbolIndex - key 
-
+            translatedIndex = symbolIndex - key
+            
             # Handle wraparound:
-            if translatedIndex <0:
+            if translatedIndex < 0:
                 translatedIndex = translatedIndex + len(SYMBOLS)
-
-                # Append the decrypted symbol:
-                translated = translated + symbol
-
+                
+                #Append the decrypted symbol:
+                translated = translated + SYMBOLS[translatedIndex]
         else:
-            # Append the symbol without encrypting/decrytping 
-            translated = translated + symbol 
+             # Append the symbol without encrypting/decrypting:
+             translated = translated + symbol
 
-    # Display possible decryption: 
+     # Display every possible decryption:
     print('Key #%s: %s' % (key, translated))
