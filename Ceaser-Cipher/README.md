@@ -28,18 +28,21 @@ $ sudo apt install xsel
 
 ``` 
 
-## Algorithm Visual
+## Ceaser Cipher Algorithm Visual
 ![ceaser](https://user-images.githubusercontent.com/48232101/106557274-9282dd80-6549-11eb-9318-c0400618356f.png)
 
 ## Ceaser Cipher Visual
 ![ceaser](https://user-images.githubusercontent.com/48232101/106877332-bc323500-6700-11eb-864e-a6639918c23b.png)
 
 ## Ceaser Cipher Brute-Force Visual
+![brute](https://user-images.githubusercontent.com/48232101/106877641-17fcbe00-6701-11eb-92ae-00e9fdf7bd81.gif)
 
 ## Algorithm of Transposition Cipher 
 ```
 Will be updated soon 
 ```
+
+## Transposition Cipher Algorithm Visual
 
 ## Transposition Cipher Visual
 * Will be updates soon 
