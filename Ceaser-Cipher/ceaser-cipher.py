@@ -3,7 +3,7 @@ import pyperclip
 
 # the string to be encrypted/decrypted
 
-message = 'This is my secret message.'
+message = 'Yes, Exam Papers has been leaked.'
 
 # the encryption/decryption key
 key = 13
