@@ -3,13 +3,13 @@
 ## Cryptography Contents 
 | 	Projects       | 
 | ------------- |
-| [Reverse Cipher](https://kutt.it/Gluddh)				|
-| [Ceaser Cipher and Transposition](https://kutt.it/NXxHpO)		|
-| [Ceaser Cipher Decryption Program]()					|
-| [Vernam and Vignere Cipher]()           				|
-| [Cryptography Plugin]()                 				|
-| [Calculating RSA Keys]()                				|
-| [RSA Cipher]()                          				|
+| [Reverse Cipher](https://kutt.it/Gluddh)							|
+| [Ceaser Cipher(Substitution Cipher) and Transposition Cipher](https://kutt.it/NXxHpO)		|
+| [Ceaser Cipher Decryption Program]()								|
+| [Vernam and Vignere Cipher]()           							|
+| [Cryptography Plugin]()                 							|
+| [Calculating RSA Keys]()                							|
+| [RSA Cipher]()                          							|
 
 ## Table of contents
 * [General info](#general-info)
