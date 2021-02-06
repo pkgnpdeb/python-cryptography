@@ -43,7 +43,8 @@ Will be updated soon
 ```
 
 ## Transposition Cipher Algorithm Visual
+* Will be updated soon 
 
-## Transposition Cipher Visual
-* Will be updates soon 
+## Transposition Cipher Visual (Encryption) 
+* Will be updated soon 
 
