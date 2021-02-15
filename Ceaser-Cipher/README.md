@@ -77,5 +77,6 @@ EVLNA CDTES EAROF ODEEC WIREE
 ``` 
 
 ## Transposition Cipher Visual (Encryption) 
-* Will be updated soon 
+![transpose](https://user-images.githubusercontent.com/48232101/107940396-42c3fd80-6fb0-11eb-8afc-c8f11ffca2f8.gif)
+
 
