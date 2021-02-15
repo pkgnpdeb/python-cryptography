@@ -74,10 +74,7 @@ This results in the following ciphertext:
 
 EVLNA CDTES EAROF ODEEC WIREE
 
-```
-
-## Transposition Cipher Algorithm Visual
-* Will be updated soon 
+``` 
 
 ## Transposition Cipher Visual (Encryption) 
 * Will be updated soon 
