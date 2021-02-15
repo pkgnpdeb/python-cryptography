@@ -2,11 +2,6 @@
 <<<<<<< HEAD
 Caesar Cipher Hacker
 with Brute Force Method
-https://www.nostarch.com/crackingcodes/ (BSD Licensed)
-=======
-Ceaser Cipher hacking 
-via Brute Force 
->>>>>>> 93e45de6f8614aafe080196faf35036ae8e969c2
 """
 
 message = 'LRF, RKNZ CNCREF UNF ORRA YRNXRQ.'
