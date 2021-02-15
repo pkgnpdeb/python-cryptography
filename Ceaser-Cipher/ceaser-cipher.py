@@ -8,7 +8,7 @@ message = 'Yes, Exam Papers has been leaked.'
 # the encryption/decryption key
 key = 13
 
-# tells the program to encrypt or decrypt
+# tells the program to encrypt or decrypt 
 mode = 'encrypt' # set to 'encrypt' or 'decrypt'
 
 # every possible symbol that can be encrypted
