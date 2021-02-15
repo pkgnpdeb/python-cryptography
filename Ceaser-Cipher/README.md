@@ -44,7 +44,8 @@ Transposition Cipher is a cryptographic algorithm where the order of alphabets i
 In this process, the actual plain text alphabets are not included.
 
 Example
-A simple example for a transposition cipher is columnar transposition cipher where each character in the plain text is written horizontally with specified alphabet width. 
+A simple example for a transposition cipher is: 
+Columnar transposition cipher where each character in the plain text is written horizontally with specified alphabet width. 
 The cipher is written vertically, which creates an entirely different cipher text.
 
 For example, suppose we use the keyword ZEBRAS and the message WE ARE DISCOVERED. FLEE AT ONCE. 
@@ -56,8 +57,8 @@ I S C O V E
 R E D F L E 
 E A T O N C 
 E Q K J E U 
-providing five nulls (QKJEU), these letters can be randomly selected as they just fill out the incomplete columns and are not part of the message. 
-The ciphertext is then read off as:
+providing five nulls (QKJEU), these letters can be randomly selected as they just fill out the incomplete columns
+and are not part of the message. The ciphertext is then read off as:
 
 EVLNE ACDTK ESEAQ ROFOJ DEECU WIREE
 
