@@ -5,7 +5,7 @@
 | ------------- |
 | [Reverse Cipher](https://kutt.it/Gluddh)							|
 | [Ceaser Cipher(Substitution Cipher) and Transposition Cipher](https://kutt.it/NXxHpO)		|
-| [Decryption Program](https://cutt.ly/ek78KJH)							|
+| [Decryption Program](https://kutt.it/Tk3WCw)							|
 | [Vernam and Vignere Cipher]()           							|
 | [Cryptography Plugin]()                 							|
 | [Calculating RSA Keys]()                							|
