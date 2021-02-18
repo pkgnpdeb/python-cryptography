@@ -1,5 +1,5 @@
  # Caesar Cipher 
-import pyperclip 
+import pyperclip
 
 # the string to be encrypted/decrypted
 
