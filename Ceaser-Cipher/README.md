@@ -1,4 +1,4 @@
-# Ceaser Cipher, Ceaser Cipher Brute-Force attack and Transportation Cipher (Encryption Only)
+# Ceaser Cipher, Ceaser Cipher Brute-Force attack and Transportation Cipher (Encryption Only) 
 
 ## Algorithm of Ceaser Cipher 
 
