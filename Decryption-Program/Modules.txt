@@ -1,0 +1,22 @@
+Decrypting with the Transposition Cipher
+
+Detecting English Programmatically
+
+Programming a Program to Test Your Program
+
+Creating Multiplicative Cipher 
+
+Creating CryptoMath Module 
+
+A Modular Arithmetic Module for the Affine Cipher
+
+Programming the Affine Cipher
+
+Hacking the Affine Cipher
+
+Hacking the Transposition Cipher
+
+Programming the Simple Substitution Cipher
+
+Hacking the Simple Substitution Cipher
+
