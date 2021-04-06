@@ -17,19 +17,17 @@
 * [Tools](#tools)
 * [Setup](#setup)
 
-## General info
+### General info
 This is simple algorithmic implementation of cryptpgraphy witn Python.
 	
-## Built with
-Project is created with:
-* Python3
+### Built with
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 	
-## Tools
-The tools used within this project:
-* IDLE 
-* Text Editor (Vim, Brackets, Gedit, Atom, Sublime Text, VS Code - any of them would do fine work)
+### Tools
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Setup
+### Setup
 To set up the project in Linux (Debian based distribution):
 ```
 ----- Installing Python3+ (or latest vesrion of Python) -----
@@ -48,6 +46,6 @@ $ sudo apt-get install idle3           [On Python3]
 ``` 
 
 # LICENSE 
->You can check out the full license [here](https://github.com/pkgnpdeb/python-cryptography/blob/main/LICENSE)
+>You can check out the full license [here](https://github.com/3ncrypt3db0t/python-cryptography/blob/main/LICENSE)
 
 This project is licensed under the terms of the **GNU/GPL** license.  
